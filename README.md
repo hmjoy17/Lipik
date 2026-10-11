@@ -2,7 +2,7 @@
   <img src="logo.png" width="120" alt="Lipik logo">
 </p>
 
-<h1 align="center">Lipik Privacy Keyboard</h1>
+<h1 align="center">Lipik - Privacy Keyboard</h1>
 
 <p align="center"><b>Write with privacy.</b></p>
 
