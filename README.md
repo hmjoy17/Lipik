@@ -6,32 +6,32 @@
 
 <p align="center"><b>Write with privacy.</b></p>
 
-Lipik একটি privacy-first Android keyboard। তুমি যা টাইপ করো, তা তোমার ফোনেই থাকে — কোনো ads নেই, কোনো tracking নেই, কোনো account লাগে না।
+Lipik is a privacy-first Android keyboard. What you type stays on your phone — no ads, no tracking, no account needed.
 
-## কেন Lipik?
+## Why Lipik?
 
-- 🔒 **Privacy by design** — তোমার লেখা কখনো তোমার ডিভাইস ছেড়ে যায় না
-- 🚫 **No ads, no tracking** — কোনো analytics নেই, data collection নেই
-- ⌨️ **ফোনেটিক typing** — English অক্ষরে লিখলেই বাংলা: `ami` → আমি, `kivabe` → কীভাবে
-- 🌍 **৬টি ভাষা** — বাংলা, English, हिन्दी, नेपाली, اردو, العربية
-- 📖 **বড় dictionary** — ৮২,০০০+ শব্দের বাংলা dictionary, নতুন শব্দ app update ছাড়াই পৌঁছে যায়
-- 📴 **Offline-first** — typing-এর জন্য internet লাগে না (শুধু dictionary/language pack download-এর সময় লাগে)
-- 🎨 **Theme আর emoji** — নিজের মতো সাজিয়ে নাও
+- 🔒 **Privacy by design** — what you type never leaves your device
+- 🚫 **No ads, no tracking** — no analytics, no data collection
+- ⌨️ **Phonetic typing** — write Bangla with English letters: `ami` → আমি, `kivabe` → কীভাবে
+- 🌍 **Six languages** — Bangla, English, Hindi, Nepali, Urdu and Arabic
+- 📖 **Big dictionary** — an 83,000+ word Bangla dictionary, and new words reach you without an app update
+- 📴 **Offline-first** — no internet needed for typing (only for dictionary and language pack downloads)
+- 🎨 **Themes and emoji** — make the keyboard yours
 
 ## Install
 
-1. [সর্বশেষ Release](https://github.com/hmjoy17/Lipik/releases/latest) থেকে **Lipik-Keyboard.apk** download করো
-2. APK-টা install করো (প্রয়োজনে "unknown apps" install-এর অনুমতি দাও)
-3. ফোনের **Settings → System → Languages & input → On-screen keyboard** থেকে **Lipik** চালু করো
-4. যেকোনো জায়গায় keyboard খুলে Lipik বেছে নাও
+1. Download **Lipik-Keyboard.apk** from the [latest Release](https://github.com/hmjoy17/Lipik/releases/latest)
+2. Install the APK (allow "install unknown apps" if Android asks)
+3. Open your phone's **Settings → System → Languages & input → On-screen keyboard** and enable **Lipik**
+4. Open any app, bring up the keyboard, and switch to Lipik
 
-## Language pack
+## Language packs
 
-আরও ভাষার dictionary লাগলে app-এর **Settings** থেকে language pack download করে নাও। Dictionary-র নতুন শব্দও app-এর ভেতর থেকেই update হয় — Settings → Correction → **Check for dictionary updates**।
+Need a dictionary for another language? Download a language pack from inside the app's **Settings**. New dictionary words also arrive inside the app — Settings → Correction → **Check for dictionary updates**.
 
-## তোমার data, তোমার control
+## Your data, your control
 
-- তুমি যেসব শব্দ শেখাও (personal dictionary), সেগুলো শুধু তোমার ফোনেই থাকে — কোথাও upload হয় না
+- Words the keyboard learns from you (your personal dictionary) stay only on your phone — they are never uploaded anywhere
 - © 2026 Lipik
 
 ---
