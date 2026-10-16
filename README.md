@@ -14,7 +14,7 @@ Lipik is a privacy-first Android keyboard. What you type stays on your phone —
 - 🚫 **No ads, no tracking** — no analytics, no data collection
 - ⌨️ **Phonetic typing** — write Bangla with English letters
 - 🌍 **Six languages** — Bangla, English, Hindi, Nepali, Urdu and Arabic
-- 📖 **Big dictionary** — an 83,000+ word Bangla dictionary, and new words reach you without an app update
+- 📖 **Big dictionary** — new words reach you without an app update
 - 📴 **Offline-first** — no internet needed for typing (only for dictionary and language pack downloads)
 - 🎨 **Themes and emoji** — make the keyboard yours
 
