@@ -8,7 +8,7 @@
 
 Lipik is a privacy-first Android keyboard. What you type stays on your phone — no ads, no tracking, no account needed.
 
-## Why Lipik?
+## Why Lipik ?
 
 - 🔒 **Privacy by design** — what you type never leaves your device
 - 🚫 **No ads, no tracking** — no analytics, no data collection
