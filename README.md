@@ -6,7 +6,7 @@
 
 <p align="center"><b>Write with privacy.</b></p>
 
-Lipik is a privacy-first Android keyboard. What you type stays on your phone — no ads, no tracking, no account needed.
+Lipik is a privacy-first Android keyboard. What you type stays on your phone — no ads, no tracking, open source.
 
 ## Why Lipik ?
 
